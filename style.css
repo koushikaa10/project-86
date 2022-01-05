@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(background.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width:2px;
+   border-style: groove;
+   background-image:url(canvas-background.png);
+
+}
